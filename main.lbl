@@ -1,0 +1,4 @@
+al 008030 .wait_vblank
+al 008013 .loop
+al 008000 .Reset
+al 008030 .wait_vblank
